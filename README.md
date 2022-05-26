@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **boudratristan@gmail.com**
 
+- 🏫 **I am a student at MyDigitalSchool in Lyon on a work-study program with Codiceo as a web developer**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tristanboudra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tristanboudra" height="30" width="40" /></a>
