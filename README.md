@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tristan</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate FullStack Developer from France 🇫🇷</h3>
 
 - 👨‍💻 All of my projects are available at [https://portfolio.boudra-tristan.fr](https://portfolio.boudra-tristan.fr)
-
-- 📝 I regularly write articles on [https://portfolio.boudra-tristan.fr/blog](https://portfolio.boudra-tristan.fr/blog)
 
 - 📫 How to reach me **boudratristan@gmail.com**
 
