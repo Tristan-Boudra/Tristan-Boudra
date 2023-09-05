@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **boudratristan@gmail.com**
 
-- 🏫 **I am a student at MyDigitalSchool in Lyon on a work-study program with Codiceo as a web developer**
+- 🏫 **I am a student at OpenClassroom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
