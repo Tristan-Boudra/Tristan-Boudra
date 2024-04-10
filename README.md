@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tristan</h1>
-<h3 align="center">A passionate Full-Stack Developer from France 🇫🇷</h3>
+<h3 align="center">A passionate Frontend Developer from France 🇫🇷</h3>
 
 # 💫 About Me:
-🔭 I am currently training on the OpenClassrooms platform.<br>🌱 I am currently learning about Javascript and React technologies mainly.<br>💬 You can contact me on boudratristan@gmail.com
+🔭 I am actively looking for a frontend developer position.<br>🌱 I am currently learning about Javascript and React technologies mainly.<br>💬 You can contact me on boudratristan@gmail.com
 
 
 ## 🌐 Socials:
